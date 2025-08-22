@@ -33,7 +33,7 @@ A simple AI Chatbot built using Python (Tkinter GUI). The chatbot can handle cas
 
 . Clone the repository
 
-. git clone https://github.com/C/chatbot-recommendation.git
+. git clone https://github.com/chhavi-chaudhary/Encryptix-internship1.git
 cd chatbot-recommendation
 
 . Run the chatbot
