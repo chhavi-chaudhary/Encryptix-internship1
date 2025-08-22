@@ -50,11 +50,9 @@ cd chatbot-recommendation
 - Bot: Hello! How can I help you today?  
 
 - You: recommend me some books  
-- Bot: I recommend The Silent Patient, Atomic Habits, and The Midnight Library. What type of book do you like?  
+- Bot: I recommend The Silent Patient, Atomic Habits, and The Midnight Library. What type of book do you like?
 
- - Add a screenshot of the chatbot window here.
-
-- Future Improvements
+## Future Improvements
 
 - Add voice input/output.
 
@@ -70,7 +68,7 @@ cd chatbot-recommendation
 
 - Fork the repo.
 
-- Create your feature branch (git checkout -b feature-name).
+- Create your feature bsranch (git checkout -b feature-name).
 
 - Commit changes (git commit -m "Added feature").
 
