@@ -24,14 +24,16 @@ A simple AI Chatbot built using Python (Tkinter GUI). The chatbot can handle cas
 - Datetime (for time feature)
 
 ## Project Structure
+```
 ├── Project-1_chatbot_recommendation.py   # Main chatbot script
 ├── README.md                             # Project documentation
+```
 
  ## Installation & Setup
 
 . Clone the repository
 
-. git clone https://github.com/your-username/chatbot-recommendation.git
+. git clone https://github.com/C/chatbot-recommendation.git
 cd chatbot-recommendation
 
 . Run the chatbot
